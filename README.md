@@ -1,7 +1,7 @@
 # Spring Boot & Kubernetes Example Project
 
 ## Project Objective & Themes
-TBD. Let me see [Product Hunt](https://www.producthunt.com/)
+TBD. Let me see [Product Hunt](https://www.producthunt.com/) & [Hacker News](https://news.ycombinator.com/)
 
 It may be B2B SaaS?
 
