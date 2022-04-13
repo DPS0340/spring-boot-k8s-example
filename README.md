@@ -18,7 +18,4 @@ It may be B2B SaaS?
 * Agile & Github Flow
 
 ## Architecture Diagram
-TBD
-
-## Misc
-Proudly powered by SW Maestro Pre-Course.
+TB
